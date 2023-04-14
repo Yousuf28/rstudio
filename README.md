@@ -2,6 +2,8 @@
 
 > A dark theme for [RStudio](https://www.rstudio.com/).
 
+- [link how to change color](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html)
+
 ![Screenshot](./screenshot.png)
 
 ## Install
