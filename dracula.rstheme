@@ -1,22 +1,22 @@
 /* rs-theme-name: Dracula */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
-  background: #282A36;
+  background: #18191c;
   color: #4b5578;
 }
 
 .ace_print-margin {
-  width: 2px;
+  width: 1px;
   background: #21222c;
 }
 .ace_editor {
   background-color: #18191c;
-  color: #f8f8f2;
+  color: #dfdfdf;
 }
 
 .rstudio-themes-flat.ace_editor_theme {
-  background-color: #282A36;
-  color: #f8f8f2;
+  background-color: #18191c;
+  color: #dfdfdf;
 }
 
 .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph {
@@ -25,8 +25,8 @@
 }
 
 .rstudio-themes-flat .ace_editor_theme {
-  background-color: #282A36;
-  color: #f8f8f2;
+  background-color: #18191c;
+  color: #dfdfdf;
 }
 
 .rstudio-themes-flat.editor_dark.ace_editor_theme a {
