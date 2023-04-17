@@ -38,12 +38,12 @@
 }
 
 .ace_cursor {
-  color: #f8f8f2;
+  color: #51afef;
 }
 
 .normal-mode .ace_cursor {
   border: 0 !important;
-  background-color: #f8f8f2;
+  background-color: #51afef;
 }
 
 .ace_marker-layer .ace_selection {
@@ -559,7 +559,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .terminal {
-  background-color: #282A36;
+  background-color: #18191c;
   color: #f8f8f2;
   font-feature-settings: "liga" 0;
   position: relative;
