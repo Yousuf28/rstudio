@@ -103,9 +103,11 @@
   background-color: #21222c;
 }
 
+/* change code color */
+
 .ace_keyword {
   font-style: normal;
-  color: #BD93F9;
+  color: #51afef;
 }
 
 .ace_keyword.ace_operator {
@@ -119,11 +121,11 @@
 }
 
 .ace_constant.ace_language {
-  color: #BD93F9;
+  color: #ECBE7B;
 }
 
 .ace_constant.ace_numeric {
-  color: #BD93F9;
+  color: #da8548;
 }
 
 .ace_constant.ace_character {
@@ -135,7 +137,7 @@
 }
 
 .ace_support.ace_function {
-  color: #50FA7B;
+  color: #c678dd;
 }
 
 .ace_support.ace_constant {
@@ -172,11 +174,11 @@
 }
 
 .ace_string {
-  color: #F1FA8C;
+  color: #98be65;
 }
 
 .ace_comment {
-  color: #6272A4;
+  color: #5B6268;
 }
 
 .ace_invisible {
@@ -192,7 +194,7 @@
 }
 
 .ace_identifier {
-  color: #f8f8f2;
+  color: #dfdfdf;
   background-color: inherit;
 }
 
@@ -2947,7 +2949,7 @@ input#rstudio_command_palette_search {
 }
 
 .rstudio-themes-dark .ace_paren_color_4 {
-  color: #50fa7b;
+  color: #51afef;
 }
 
 .rstudio-themes-dark .ace_paren_color_5 {
