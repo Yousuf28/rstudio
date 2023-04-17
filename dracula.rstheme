@@ -110,9 +110,12 @@
   color: #51afef;
 }
 
+
+/*  :: or $ sign */
+
 .ace_keyword.ace_operator {
   font-style: normal;
-  color: #FF79C6;
+  color: #a3bbe0;
 }
 
 .ace_keyword.ace_other.ace_unit {
@@ -144,9 +147,13 @@
   color: #ffb86c;
 }
 
+/* package name */
+
 .ace_support.ace_class {
   font-style: italic;
-  color: #8be9fd;
+ /* color: #80FFBB; */
+ 
+ color: #94b0db;
 }
 
 .ace_support.ace_type {
